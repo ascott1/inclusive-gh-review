@@ -17,3 +17,5 @@ This tool is designed to reduce unconscious bias when reviewing the code of a po
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
 3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
+
+Icon by [IYIKON](https://thenounproject.com/search/?q=balance&i=3006772) and used with attribution under the Creative Commons license.
